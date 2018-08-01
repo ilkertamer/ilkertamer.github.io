@@ -122,12 +122,12 @@ google_analytics: "UA-123217928-1"
 # disqus: ""
 
 # To use Facebook Comments, fill in a Facebook App ID
- fb_comment_id: "2240097642887106"
+# fb_comment_id: ""
 
 # --- Misc --- #
 
 # Facebook App ID
- fb_app_id: "2240097642887106"
+# fb_app_id: ""
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
